@@ -2,7 +2,16 @@
 
 # GRUPO: HIPER-228
 
-##:historia
+Para implementação da nossa solução utilizamos o Jupyter Notebook ([https://jupyter.org/]), pois o mesmo facilita exibição de conteúdo dataframe oferecido pelo pandas e também de gráficos/diagramas.
+E na formulação do código utilizamos de 3 bibliotecas em Python:
+Pandas: [https://pandas.pydata.org/docs/getting_started/install.html]
+Networkx: [https://networkx.org/documentation/stable/index.html]
+Graphviz: [https://graphviz.org/] (Esse já é mais compllicado, só consegui baixar pelo conda, vou deixar um link de um medium que me auxiliou a baixar [https://savleen307.medium.com/pygraphviz-installation-in-windows-f45cc6fed981])
+
+
+
+
+## historia
 Eu enquanto Colaborador H Hiperstream, necessito de um sistema que com base no modelo de dados sugerido seja capaz de devolver um desenho de diagrama que mostre o Fluxo da informação com base em duas pastas diferentes. 
 O Diagrama não precisa necessariamente seguir o do exemplo, 
 ###Modelo de Dados
