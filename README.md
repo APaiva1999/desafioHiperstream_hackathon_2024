@@ -10,7 +10,7 @@ Pandas: [https://pandas.pydata.org/docs/getting_started/install.html]
 
 Networkx: [https://networkx.org/documentation/stable/index.html]
 
-Graphviz: [https://graphviz.org/] (Esse já é mais compllicado, só consegui baixar pelo conda, vou deixar um link de um medium que me auxiliou a baixar [https://savleen307.medium.com/pygraphviz-installation-in-windows-f45cc6fed981])
+PyGraphviz: [https://pygraphviz.github.io/] (Esse já é mais compllicado, só consegui baixar pelo conda, vou deixar um link de um medium que me auxiliou a baixar [https://savleen307.medium.com/pygraphviz-installation-in-windows-f45cc6fed981])
 
 
 
