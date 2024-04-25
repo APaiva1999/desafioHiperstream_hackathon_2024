@@ -1,4 +1,7 @@
 # Desafio Hackathon 2024 Makenzie
+
+# GRUPO: HIPER-228
+
 ##:historia
 Eu enquanto Colaborador H Hiperstream, necessito de um sistema que com base no modelo de dados sugerido seja capaz de devolver um desenho de diagrama que mostre o Fluxo da informação com base em duas pastas diferentes. 
 O Diagrama não precisa necessariamente seguir o do exemplo, 
