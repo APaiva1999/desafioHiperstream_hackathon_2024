@@ -3,6 +3,7 @@
 # GRUPO: HIPER-228
 
 Para implementação da nossa solução utilizamos o Jupyter Notebook ([https://jupyter.org/]), pois o mesmo facilita exibição de conteúdo dataframe oferecido pelo pandas e também de gráficos/diagramas.
+
 E na formulação do código utilizamos de 3 bibliotecas em Python:
 Pandas: [https://pandas.pydata.org/docs/getting_started/install.html]
 Networkx: [https://networkx.org/documentation/stable/index.html]
