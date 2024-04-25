@@ -6,8 +6,8 @@ Para implementação da nossa solução utilizamos o Jupyter Notebook ([https://
 
 E na formulação do código utilizamos de 3 bibliotecas em Python:
 
-Pandas: [https://pandas.pydata.org/docs/getting_started/install.html]
-Networkx: [https://networkx.org/documentation/stable/index.html]
+Pandas: [https://pandas.pydata.org/docs/getting_started/install.html] \n
+Networkx: [https://networkx.org/documentation/stable/index.html]\n
 Graphviz: [https://graphviz.org/] (Esse já é mais compllicado, só consegui baixar pelo conda, vou deixar um link de um medium que me auxiliou a baixar [https://savleen307.medium.com/pygraphviz-installation-in-windows-f45cc6fed981])
 
 
